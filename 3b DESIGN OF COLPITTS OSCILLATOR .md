@@ -11,21 +11,21 @@
 # Circuit Diagram 
 <img width="427" height="420" alt="image" src="https://github.com/user-attachments/assets/5c43422a-5c16-4bc3-940b-1a3d40dda1d7" />
 
+<img width="1278" height="1280" alt="image" src="https://github.com/user-attachments/assets/4f9f9519-190d-49a9-96bc-b2114cd8f792" />
+
+
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+<img width="1280" height="325" alt="image" src="https://github.com/user-attachments/assets/b42aafcf-e7aa-40ba-96e0-1cb7ef63754d" />
+
 
 # Graph
-
-
-# Sample images 
+<img width="1179" height="1280" alt="image" src="https://github.com/user-attachments/assets/66d3eb2b-56c7-4270-ab7a-3327833b4bb2" />
 
 
 # Result
 
 Thus, the **COLPITTS OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:3.2MHZ**  
+- **(ii) Practical Frequency:3.51MHZ**  
